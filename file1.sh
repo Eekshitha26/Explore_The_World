@@ -1,7 +1,7 @@
 this file is created in the ekshu branch and  file  name is file1.sh,
 and  this branch and file is created from the  local pc ,
 let me explain everything in step by step
-STEP  1: i need to login to my gitHub Account through  my Lptop pc
+STEP  1: i need to login to my gitHub Account through GIT my Lptop pc
 1.git config --global user.name "Eekshitha26"
 2.git congig --global user.email "eekshitasai26@gmail.com"
 now you need to check you user detail
